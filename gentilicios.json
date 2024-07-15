@@ -1,0 +1,1179 @@
+[
+    {
+        "pais": "Afganistán",
+        "gentilicio": [
+            "Afgano/Afgana"
+        ]
+    },
+    {
+        "pais": "Albania",
+        "gentilicio": [
+            "Albanés/Albanesa"
+        ]
+    },
+    {
+        "pais": "Alemania",
+        "gentilicio": [
+            "Alemán/Alemana"
+        ]
+    },
+    {
+        "pais": "Andorra",
+        "gentilicio": [
+            "Andorrano/Andorrana"
+        ]
+    },
+    {
+        "pais": "Angola",
+        "gentilicio": [
+            "Angoleño/Angolena",
+            "Angolano/Angolana"
+        ]
+    },
+    {
+        "pais": "Antigua y Barbuda",
+        "gentilicio": [
+            "Antiguano/Antiguana"
+        ]
+    },
+    {
+        "pais": "Arabia Saudita",
+        "gentilicio": [
+            "Saudí/Saudita"
+        ]
+    },
+    {
+        "pais": "Argelia",
+        "gentilicio": [
+            "Argelino/Argelina"
+        ]
+    },
+    {
+        "pais": "Argentina",
+        "gentilicio": [
+            "Argentino/Argentina"
+        ]
+    },
+    {
+        "pais": "Armenia",
+        "gentilicio": [
+            "Armenio/Armenia"
+        ]
+    },
+    {
+        "pais": "Australia",
+        "gentilicio": [
+            "Australiano/Australiana"
+        ]
+    },
+    {
+        "pais": "Austria",
+        "gentilicio": [
+            "Austriaco/Austriaca",
+            "Austríaco/Austríaca"
+        ]
+    },
+    {
+        "pais": "Azerbaiyán",
+        "gentilicio": [
+            "Azerbaiyano/Azerbaiyana"
+        ]
+    },
+    {
+        "pais": "Bahamas",
+        "gentilicio": [
+            "Bahameño/Bahameña"
+        ]
+    },
+    {
+        "pais": "Bangladesh",
+        "gentilicio": [
+            "Bangladesí"
+        ]
+    },
+    {
+        "pais": "Barbados",
+        "gentilicio": [
+            "Barbadense"
+        ]
+    },
+    {
+        "pais": "Bahréin",
+        "gentilicio": [
+            "Bareiní"
+        ]
+    },
+    {
+        "pais": "Bélgica",
+        "gentilicio": [
+            "Belga"
+        ]
+    },
+    {
+        "pais": "Belice",
+        "gentilicio": [
+            "Beliceño/Beliceña"
+        ]
+    },
+    {
+        "pais": "Benín",
+        "gentilicio": [
+            "Beninés/Beninesa"
+        ]
+    },
+    {
+        "pais": "Bielorrusia",
+        "gentilicio": [
+            "Bielorruso/Bielorrusa"
+        ]
+    },
+    {
+        "pais": "Birmania",
+        "gentilicio": [
+            "Birmano/Birmana"
+        ]
+    },
+    {
+        "pais": "Bolivia",
+        "gentilicio": [
+            "Boliviano/Boliviana"
+        ]
+    },
+    {
+        "pais": "Bosnia y Herzegovina",
+        "gentilicio": [
+            "Bosnio/Bosnia",
+            "Bosnioherzegovino/Bosnioherzegovina"
+        ]
+    },
+    {
+        "pais": "Botsuana",
+        "gentilicio": [
+            "Botsuano/Botsuana"
+        ]
+    },
+    {
+        "pais": "Brasil",
+        "gentilicio": [
+            "Brasileño/Brasileña",
+            "Brasilero/Brasilera"
+        ]
+    },
+    {
+        "pais": "Brunéi",
+        "gentilicio": [
+            "Bruneano/Bruneana"
+        ]
+    },
+    {
+        "pais": "Bulgaria",
+        "gentilicio": [
+            "Búlgaro/Búlgara"
+        ]
+    },
+    {
+        "pais": "Burkina Faso",
+        "gentilicio": [
+            "Burkinés"
+        ]
+    },
+    {
+        "pais": "Burundi",
+        "gentilicio": [
+            "Burundés/Burundesa"
+        ]
+    },
+    {
+        "pais": "Bután",
+        "gentilicio": [
+            "Butanés/Butanesa"
+        ]
+    },
+    {
+        "pais": "Cabo Verde",
+        "gentilicio": [
+            "Caboverdiano/Caboverdiana"
+        ]
+    },
+    {
+        "pais": "Camboya",
+        "gentilicio": [
+            "Camboyano/Camboyana"
+        ]
+    },
+    {
+        "pais": "Camerún",
+        "gentilicio": [
+            "Camerunés/Camerunesa"
+        ]
+    },
+    {
+        "pais": "Canadá",
+        "gentilicio": [
+            "Canadiense"
+        ]
+    },
+    {
+        "pais": "Catar",
+        "gentilicio": [
+            "Catarí"
+        ]
+    },
+    {
+        "pais": "Chad",
+        "gentilicio": [
+            "Chadiano/Chadiana"
+        ]
+    },
+    {
+        "pais": "Chile",
+        "gentilicio": [
+            "Chileno/Chilena"
+        ]
+    },
+    {
+        "pais": "China",
+        "gentilicio": [
+            "Chino/China"
+        ]
+    },
+    {
+        "pais": "Chipre",
+        "gentilicio": [
+            "Chipriota"
+        ]
+    },
+    {
+        "pais": "Vaticano",
+        "gentilicio": [
+            "Vaticano/Vaticana"
+        ]
+    },
+    {
+        "pais": "Colombia",
+        "gentilicio": [
+            "Colombiano/Colombiana"
+        ]
+    },
+    {
+        "pais": "Comoras",
+        "gentilicio": [
+            "Comorense"
+        ]
+    },
+    {
+        "pais": "Corea del Norte",
+        "gentilicio": [
+            "Norcoreano/Norcoreana"
+        ]
+    },
+    {
+        "pais": "Corea del Sur",
+        "gentilicio": [
+            "Surcoreano/Surcoreana"
+        ]
+    },
+    {
+        "pais": "Costa de Marfil",
+        "gentilicio": [
+            "Marfileño/Marfileña"
+        ]
+    },
+    {
+        "pais": "Costa Rica",
+        "gentilicio": [
+            "Costarricense"
+        ]
+    },
+    {
+        "pais": "Croacia",
+        "gentilicio": [
+            "Croata"
+        ]
+    },
+    {
+        "pais": "Cuba",
+        "gentilicio": [
+            "Cubano/Cubana"
+        ]
+    },
+    {
+        "pais": "Dinamarca",
+        "gentilicio": [
+            "Danés/Danesa"
+        ]
+    },
+    {
+        "pais": "Dominica",
+        "gentilicio": [
+            "Dominiqués"
+        ]
+    },
+    {
+        "pais": "Ecuador",
+        "gentilicio": [
+            "Ecuatoriano/Ecuatoriana"
+        ]
+    },
+    {
+        "pais": "Egipto",
+        "gentilicio": [
+            "Egipcio/Egipcia"
+        ]
+    },
+    {
+        "pais": "El Salvador",
+        "gentilicio": [
+            "Salvadoreño/Salvadoreña"
+        ]
+    },
+    {
+        "pais": "Emiratos Árabes Unidos",
+        "gentilicio": [
+            "Emiratí"
+        ]
+    },
+    {
+        "pais": "Eritrea",
+        "gentilicio": [
+            "Eritreo/Eritrea"
+        ]
+    },
+    {
+        "pais": "Eslovaquia",
+        "gentilicio": [
+            "Eslovaco/Eslovaca"
+        ]
+    },
+    {
+        "pais": "Eslovenia",
+        "gentilicio": [
+            "Esloveno/Eslovena"
+        ]
+    },
+    {
+        "pais": "España",
+        "gentilicio": [
+            "Español/Española"
+        ]
+    },
+    {
+        "pais": "Estados Unidos",
+        "gentilicio": [
+            "Estadounidense"
+        ]
+    },
+    {
+        "pais": "Estonia",
+        "gentilicio": [
+            "Estonio/Estona"
+        ]
+    },
+    {
+        "pais": "Etiopía",
+        "gentilicio": [
+            "Etíope"
+        ]
+    },
+    {
+        "pais": "Filipinas",
+        "gentilicio": [
+            "Filipino/Filipina"
+        ]
+    },
+    {
+        "pais": "Finlandia",
+        "gentilicio": [
+            "Finlandés/Finlandesa"
+        ]
+    },
+    {
+        "pais": "Fiyi",
+        "gentilicio": [
+            "Fiyiano/Fiyiana"
+        ]
+    },
+    {
+        "pais": "Francia",
+        "gentilicio": [
+            "Francés/Francesa"
+        ]
+    },
+    {
+        "pais": "Gabón",
+        "gentilicio": [
+            "Gabonés/Gabonesa"
+        ]
+    },
+    {
+        "pais": "Gambia",
+        "gentilicio": [
+            "Gambiano/Gambiana"
+        ]
+    },
+    {
+        "pais": "Georgia",
+        "gentilicio": [
+            "Georgiano/Georgiana"
+        ]
+    },
+    {
+        "pais": "Ghana",
+        "gentilicio": [
+            "Ghanés/Ghanesa"
+        ]
+    },
+    {
+        "pais": "Granada",
+        "gentilicio": [
+            "Granadino/Granadina"
+        ]
+    },
+    {
+        "pais": "Grecia",
+        "gentilicio": [
+            "Griego/Griega"
+        ]
+    },
+    {
+        "pais": "Guatemala",
+        "gentilicio": [
+            "Guatemalteco/Guatemalteca"
+        ]
+    },
+    {
+        "pais": "Guinea ecuatorial",
+        "gentilicio": [
+            "Ecuatoguineano/Ecuatoguineana"
+        ]
+    },
+    {
+        "pais": "Guinea",
+        "gentilicio": [
+            "Guineano/Guineana"
+        ]
+    },
+    {
+        "pais": "Guinea-Bisáu",
+        "gentilicio": [
+            "Guineano/Guineana"
+        ]
+    },
+    {
+        "pais": "Guyana",
+        "gentilicio": [
+            "Guyanés/Guyanesa"
+        ]
+    },
+    {
+        "pais": "Haití",
+        "gentilicio": [
+            "Haitiano/Haitiana"
+        ]
+    },
+    {
+        "pais": "Honduras",
+        "gentilicio": [
+            "Hondureño/Hondureña"
+        ]
+    },
+    {
+        "pais": "Hungría",
+        "gentilicio": [
+            "Húngaro/Húngara"
+        ]
+    },
+    {
+        "pais": "India",
+        "gentilicio": [
+            "Indio/India"
+        ]
+    },
+    {
+        "pais": "Indonesia",
+        "gentilicio": [
+            "Indonesio/Indonesia"
+        ]
+    },
+    {
+        "pais": "Irak",
+        "gentilicio": [
+            "Iraquí"
+        ]
+    },
+    {
+        "pais": "Irán",
+        "gentilicio": [
+            "Iraní"
+        ]
+    },
+    {
+        "pais": "Irlanda",
+        "gentilicio": [
+            "Irlandés/Irlandesa"
+        ]
+    },
+    {
+        "pais": "Islandia",
+        "gentilicio": [
+            "Islandés/Islandesa"
+        ]
+    },
+    {
+        "pais": "Islas Marshall",
+        "gentilicio": [
+            "Marshalés/Marshalina"
+        ]
+    },
+    {
+        "pais": "Islas Salomón",
+        "gentilicio": [
+            "Salomonense"
+        ]
+    },
+    {
+        "pais": "Israel",
+        "gentilicio": [
+            "Israelí"
+        ]
+    },
+    {
+        "pais": "Italia",
+        "gentilicio": [
+            "Italiano/Italiana"
+        ]
+    },
+    {
+        "pais": "Jamaica",
+        "gentilicio": [
+            "Jamaicano/Jamaicana",
+            "Jamaiquino/Jamaiquina"
+        ]
+    },
+    {
+        "pais": "Japón",
+        "gentilicio": [
+            "Japonés/Japonesa"
+        ]
+    },
+    {
+        "pais": "Jordania",
+        "gentilicio": [
+            "Jordano/Jordana"
+        ]
+    },
+    {
+        "pais": "Kazajistán",
+        "gentilicio": [
+            "Kazajo/Kazaja"
+        ]
+    },
+    {
+        "pais": "Kenia",
+        "gentilicio": [
+            "Keniano/Kenia",
+            "Keniata"
+        ]
+    },
+    {
+        "pais": "Kirguistán",
+        "gentilicio": [
+            "Kirguís/Kirguisa",
+            "Kirguiso/Kirguisa"
+        ]
+    },
+    {
+        "pais": "Kiribati",
+        "gentilicio": [
+            "Kiribatiano/Kiribatiana"
+        ]
+    },
+    {
+        "pais": "Kuwait",
+        "gentilicio": [
+            "Kuwaití"
+        ]
+    },
+    {
+        "pais": "Laos",
+        "gentilicio": [
+            "Laosiano/Laosiana"
+        ]
+    },
+    {
+        "pais": "Lesoto",
+        "gentilicio": [
+            "Lesotense"
+        ]
+    },
+    {
+        "pais": "Letonia",
+        "gentilicio": [
+            "Letón/Leta"
+        ]
+    },
+    {
+        "pais": "Líbano",
+        "gentilicio": [
+            "Libanés/Libanesa"
+        ]
+    },
+    {
+        "pais": "Liberia",
+        "gentilicio": [
+            "Liberiano/Liberiana"
+        ]
+    },
+    {
+        "pais": "Libia",
+        "gentilicio": [
+            "Libio/Libia"
+        ]
+    },
+    {
+        "pais": "Liechtenstein",
+        "gentilicio": [
+            "Liechtensteiniano/Liechtensteiniana"
+        ]
+    },
+    {
+        "pais": "Lituania",
+        "gentilicio": [
+            "Lituano/Lituana"
+        ]
+    },
+    {
+        "pais": "Luxemburgo",
+        "gentilicio": [
+            "Luxemburgués/Luxemburguesa"
+        ]
+    },
+    {
+        "pais": "Madagascar",
+        "gentilicio": [
+            "Malgache"
+        ]
+    },
+    {
+        "pais": "Malasia",
+        "gentilicio": [
+            "Malasio/Malasia"
+        ]
+    },
+    {
+        "pais": "Malaui",
+        "gentilicio": [
+            "Malauí"
+        ]
+    },
+    {
+        "pais": "Maldivas",
+        "gentilicio": [
+            "Maldivo/Maldiva"
+        ]
+    },
+    {
+        "pais": "Malí",
+        "gentilicio": [
+            "Maliense",
+            "Malí"
+        ]
+    },
+    {
+        "pais": "Malta",
+        "gentilicio": [
+            "Maltés/Maltesa"
+        ]
+    },
+    {
+        "pais": "Marruecos",
+        "gentilicio": [
+            "Marroquí"
+        ]
+    },
+    {
+        "pais": "Mauricio",
+        "gentilicio": [
+            "Mauriciano/Mauriciana"
+        ]
+    },
+    {
+        "pais": "Mauritania",
+        "gentilicio": [
+            "Mauritano/Mauritana"
+        ]
+    },
+    {
+        "pais": "México",
+        "gentilicio": [
+            "Mexicano/Mexicana"
+        ]
+    },
+    {
+        "pais": "Micronesia",
+        "gentilicio": [
+            "Micronesio/Micronesia"
+        ]
+    },
+    {
+        "pais": "Moldavia",
+        "gentilicio": [
+            "Moldavo/Moldava"
+        ]
+    },
+    {
+        "pais": "Mónaco",
+        "gentilicio": [
+            "Monegasco/Monegasca"
+        ]
+    },
+    {
+        "pais": "Mongolia",
+        "gentilicio": [
+            "Mongol/Mongola"
+        ]
+    },
+    {
+        "pais": "Montenegro",
+        "gentilicio": [
+            "Montenegrino/Montenegrina"
+        ]
+    },
+    {
+        "pais": "Mozambique",
+        "gentilicio": [
+            "Mozambiqueño/Mozambiqueña"
+        ]
+    },
+    {
+        "pais": "Namibia",
+        "gentilicio": [
+            "Namibio/Namibia"
+        ]
+    },
+    {
+        "pais": "Nauru",
+        "gentilicio": [
+            "Nauruano/Nauruana"
+        ]
+    },
+    {
+        "pais": "Nepal",
+        "gentilicio": [
+            "Nepalés/Nepalesa",
+            "Nepalí"
+        ]
+    },
+    {
+        "pais": "Nicaragua",
+        "gentilicio": [
+            "Nicaragüense"
+        ]
+    },
+    {
+        "pais": "Níger",
+        "gentilicio": [
+            "Nigerino/Nigerina"
+        ]
+    },
+    {
+        "pais": "Nigeria",
+        "gentilicio": [
+            "Nigeriano/Nigeriana"
+        ]
+    },
+    {
+        "pais": "Noruega",
+        "gentilicio": [
+            "Noruego/Noruega"
+        ]
+    },
+    {
+        "pais": "Nueva Zelanda",
+        "gentilicio": [
+            "Neozelandés/Neozelandesa"
+        ]
+    },
+    {
+        "pais": "Omán",
+        "gentilicio": [
+            "Omaní"
+        ]
+    },
+    {
+        "pais": "Países Bajos",
+        "gentilicio": [
+            "Neerlandés/Neerlandesa"
+        ]
+    },
+    {
+        "pais": "Pakistán",
+        "gentilicio": [
+            "Pakistaní"
+        ]
+    },
+    {
+        "pais": "Palaos",
+        "gentilicio": [
+            "Palauano/Palauana"
+        ]
+    },
+    {
+        "pais": "Palestina",
+        "gentilicio": [
+            "Palestino/Palestina"
+        ]
+    },
+    {
+        "pais": "Panamá",
+        "gentilicio": [
+            "Panameño/Panameña"
+        ]
+    },
+    {
+        "pais": "Papúa Nueva Guinea",
+        "gentilicio": [
+            "Papú"
+        ]
+    },
+    {
+        "pais": "Paraguay",
+        "gentilicio": [
+            "Paraguayo/Paraguaya"
+        ]
+    },
+    {
+        "pais": "Perú",
+        "gentilicio": [
+            "Peruano/Peruana"
+        ]
+    },
+    {
+        "pais": "Polonia",
+        "gentilicio": [
+            "Polaco/Polaca"
+        ]
+    },
+    {
+        "pais": "Portugal",
+        "gentilicio": [
+            "Portugués/Portuguesa"
+        ]
+    },
+    {
+        "pais": "Reino Unido",
+        "gentilicio": [
+            "Británico/Británica"
+        ]
+    },
+    {
+        "pais": "República Centroafricana",
+        "gentilicio": [
+            "Centroafricano/Centroafricana"
+        ]
+    },
+    {
+        "pais": "República Checa",
+        "gentilicio": [
+            "Checo/Checa"
+        ]
+    },
+    {
+        "pais": "República de Macedonia",
+        "gentilicio": [
+            "Macedonio/Macedonia"
+        ]
+    },
+    {
+        "pais": "República Democrática del Congo",
+        "gentilicio": [
+            "Congoleño/Congoleña"
+        ]
+    },
+    {
+        "pais": "República Dominicana",
+        "gentilicio": [
+            "Dominicano/Dominicana"
+        ]
+    },
+    {
+        "pais": "República Sudafricana",
+        "gentilicio": [
+            "Sudafricano/Sudafricana"
+        ]
+    },
+    {
+        "pais": "Ruanda",
+        "gentilicio": [
+            "Ruandés/Ruandesa"
+        ]
+    },
+    {
+        "pais": "Rumanía",
+        "gentilicio": [
+            "Rumano/Rumana"
+        ]
+    },
+    {
+        "pais": "Rusia",
+        "gentilicio": [
+            "Ruso/Rusa"
+        ]
+    },
+    {
+        "pais": "Samoa",
+        "gentilicio": [
+            "Samoano/Samoana"
+        ]
+    },
+    {
+        "pais": "San Cristóbal y Nieves",
+        "gentilicio": [
+            "Cristobaleño/Cristobaleña"
+        ]
+    },
+    {
+        "pais": "San Marino",
+        "gentilicio": [
+            "Sanmarinense"
+        ]
+    },
+    {
+        "pais": "San Vicente y las Granadinas",
+        "gentilicio": [
+            "Sanvicentino/Sanvicentina"
+        ]
+    },
+    {
+        "pais": "Santa Lucía",
+        "gentilicio": [
+            "Santalucense"
+        ]
+    },
+    {
+        "pais": "Santo Tomé y Príncipe",
+        "gentilicio": [
+            "Santotomense"
+        ]
+    },
+    {
+        "pais": "Senegal",
+        "gentilicio": [
+            "Senegalés/Senegalesa"
+        ]
+    },
+    {
+        "pais": "Serbia",
+        "gentilicio": [
+            "Serbio/Serbia"
+        ]
+    },
+    {
+        "pais": "Seychelles",
+        "gentilicio": [
+            "Seychellense"
+        ]
+    },
+    {
+        "pais": "Sierra Leona",
+        "gentilicio": [
+            "Sierraleonés/Sierraleonesa"
+        ]
+    },
+    {
+        "pais": "Singapur",
+        "gentilicio": [
+            "Singapurense"
+        ]
+    },
+    {
+        "pais": "Siria",
+        "gentilicio": [
+            "Sirio/Siria"
+        ]
+    },
+    {
+        "pais": "Somalia",
+        "gentilicio": [
+            "Somalí/Somalía"
+        ]
+    },
+    {
+        "pais": "Sri Lanka",
+        "gentilicio": [
+            "Ceilanés/Ceilanesa",
+            "Ceilandés/Ceilandesa",
+            "Esrilanqués/Esrilanquesa"
+        ]
+    },
+    {
+        "pais": "Suazilandia",
+        "gentilicio": [
+            "Suazi"
+        ]
+    },
+    {
+        "pais": "Sudán del Sur",
+        "gentilicio": [
+            "Sursudanés/Sursudanesa"
+        ]
+    },
+    {
+        "pais": "Sudán",
+        "gentilicio": [
+            "Sudanés/Sudanesa"
+        ]
+    },
+    {
+        "pais": "Suecia",
+        "gentilicio": [
+            "Sueco/Sueca"
+        ]
+    },
+    {
+        "pais": "Suiza",
+        "gentilicio": [
+            "Suizo/Suiza"
+        ]
+    },
+    {
+        "pais": "Surinam",
+        "gentilicio": [
+            "Surinamés/Surinamesa"
+        ]
+    },
+    {
+        "pais": "Tailandia",
+        "gentilicio": [
+            "Tailandés/Tailandesa"
+        ]
+    },
+    {
+        "pais": "Tanzania",
+        "gentilicio": [
+            "Tanzano/Tanzana"
+        ]
+    },
+    {
+        "pais": "Tayikistán",
+        "gentilicio": [
+            "Tayiko/Tayika"
+        ]
+    },
+    {
+        "pais": "Timor Oriental",
+        "gentilicio": [
+            "Timorense"
+        ]
+    },
+    {
+        "pais": "Togo",
+        "gentilicio": [
+            "Togolés/Togolesa"
+        ]
+    },
+    {
+        "pais": "Tonga",
+        "gentilicio": [
+            "Tongano/Tongana"
+        ]
+    },
+    {
+        "pais": "Trinidad y Tobago",
+        "gentilicio": [
+            "Trinitense"
+        ]
+    },
+    {
+        "pais": "Túnez",
+        "gentilicio": [
+            "Tunecino/Tunecina"
+        ]
+    },
+    {
+        "pais": "Turkmenistán",
+        "gentilicio": [
+            "Turcomano/Turcomana",
+            "Turkmeno/Turkmena"
+        ]
+    },
+    {
+        "pais": "Turquía",
+        "gentilicio": [
+            "Turco/Turca"
+        ]
+    },
+    {
+        "pais": "Tuvalu",
+        "gentilicio": [
+            "Tuvaluano/Tuvaluana"
+        ]
+    },
+    {
+        "pais": "Ucrania",
+        "gentilicio": [
+            "Ucraniano/Ucraniana"
+        ]
+    },
+    {
+        "pais": "Uganda",
+        "gentilicio": [
+            "Ugandés/Ugandesa"
+        ]
+    },
+    {
+        "pais": "Uruguay",
+        "gentilicio": [
+            "Uruguayo/Uruguaya"
+        ]
+    },
+    {
+        "pais": "Uzbekistán",
+        "gentilicio": [
+            "Uzbeko/Uzbeka"
+        ]
+    },
+    {
+        "pais": "Vanuatu",
+        "gentilicio": [
+            "Vanuatuense"
+        ]
+    },
+    {
+        "pais": "Venezuela",
+        "gentilicio": [
+            "Venezolano/Venezolana"
+        ]
+    },
+    {
+        "pais": "Vietnam",
+        "gentilicio": [
+            "Vietnamita"
+        ]
+    },
+    {
+        "pais": "Yemen",
+        "gentilicio": [
+            "Yemení/Yemení",
+            "Yemenita/Yemenita"
+        ]
+    },
+    {
+        "pais": "Yibuti",
+        "gentilicio": [
+            "Yibutiano/Yibutiana"
+        ]
+    },
+    {
+        "pais": "Zambia",
+        "gentilicio": [
+            "Zambiano/Zambiana"
+        ]
+    },
+    {
+        "pais": "Zimbabue",
+        "gentilicio": [
+            "Zimbabuense/Zimbabuense"
+        ]
+    }
+]

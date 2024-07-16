@@ -1,0 +1,3486 @@
+[
+    {
+        "alpha3": "AFG",
+        "country_name_es": "Afganistán",
+        "country_name_en": "Afghanistan",
+        "demonym": {
+            "es": [
+                "Afgano",
+                "Afgana"
+            ],
+            "en": [
+                "Afghan"
+            ],
+            "fr": [
+                "Afghan",
+                "Afghane"
+            ]
+        }
+    },
+    {
+        "alpha3": "ALB",
+        "country_name_es": "Albania",
+        "country_name_en": "Albania",
+        "demonym": {
+            "es": [
+                "Albanés",
+                "Albanesa"
+            ],
+            "en": [
+                "Albanian"
+            ],
+            "fr": [
+                "Albanais",
+                "Albanaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "DEU",
+        "country_name_es": "Alemania",
+        "country_name_en": "Germany",
+        "demonym": {
+            "es": [
+                "Alemán",
+                "Alemana"
+            ],
+            "en": [
+                "German"
+            ],
+            "fr": [
+                "Allemand",
+                "Allemande"
+            ]
+        }
+    },
+    {
+        "alpha3": "AND",
+        "country_name_es": "Andorra",
+        "country_name_en": "Andorra",
+        "demonym": {
+            "es": [
+                "Andorrano",
+                "Andorrana"
+            ],
+            "en": [
+                "Andorran"
+            ],
+            "fr": [
+                "Andorran",
+                "Andorranne"
+            ]
+        }
+    },
+    {
+        "alpha3": "AGO",
+        "country_name_es": "Angola",
+        "country_name_en": "Angola",
+        "demonym": {
+            "es": [
+                "Angoleño",
+                "Angolena",
+                "Angolano",
+                "Angolana"
+            ],
+            "en": [
+                "Angolan"
+            ],
+            "fr": [
+                "Angolais",
+                "Angolaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "ATG",
+        "country_name_es": "Antigua y Barbuda",
+        "country_name_en": "Antigua and Barbuda",
+        "demonym": {
+            "es": [
+                "Antiguano",
+                "Antiguana"
+            ],
+            "en": [
+                "Antiguan",
+                "Barbudan"
+            ],
+            "fr": [
+                "Antiguayen",
+                "Antiguayenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "SAU",
+        "country_name_es": "Arabia Saudita",
+        "country_name_en": "Saudi Arabia",
+        "demonym": {
+            "es": [
+                "Saudí",
+                "Saudita"
+            ],
+            "en": [
+                "Saudi Arabian"
+            ],
+            "fr": [
+                "Saoudien",
+                "Saoudienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "DZA",
+        "country_name_es": "Argelia",
+        "country_name_en": "Algeria",
+        "demonym": {
+            "es": [
+                "Argelino",
+                "Argelina"
+            ],
+            "en": [
+                "Algerian"
+            ],
+            "fr": [
+                "Algérien",
+                "Algérienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "ARG",
+        "country_name_es": "Argentina",
+        "country_name_en": "Argentina",
+        "demonym": {
+            "es": [
+                "Argentino",
+                "Argentina"
+            ],
+            "en": [
+                "Argentinean"
+            ],
+            "fr": [
+                "Argentin",
+                "Argentine"
+            ]
+        }
+    },
+    {
+        "alpha3": "ARM",
+        "country_name_es": "Armenia",
+        "country_name_en": "Armenia",
+        "demonym": {
+            "es": [
+                "Armenio",
+                "Armenia"
+            ],
+            "en": [
+                "Armenian"
+            ],
+            "fr": [
+                "Arménien",
+                "Arménienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "AUS",
+        "country_name_es": "Australia",
+        "country_name_en": "Australia",
+        "demonym": {
+            "es": [
+                "Australiano",
+                "Australiana"
+            ],
+            "en": [
+                "Australian"
+            ],
+            "fr": [
+                "Australien",
+                "Australienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "AUT",
+        "country_name_es": "Austria",
+        "country_name_en": "Austria",
+        "demonym": {
+            "es": [
+                "Austriaco",
+                "Austriaca",
+                "Austríaco",
+                "Austríaca"
+            ],
+            "en": [
+                "Austrian"
+            ],
+            "fr": [
+                "Autrichien",
+                "Autrichienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "AZE",
+        "country_name_es": "Azerbaiyán",
+        "country_name_en": "Azerbaijan",
+        "demonym": {
+            "es": [
+                "Azerbaiyano",
+                "Azerbaiyana"
+            ],
+            "en": [
+                "Azerbaijani"
+            ],
+            "fr": [
+                "Azerbaïdjanais",
+                "Azerbaïdjanaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "BHS",
+        "country_name_es": "Bahamas",
+        "country_name_en": "Bahamas",
+        "demonym": {
+            "es": [
+                "Bahameño",
+                "Bahameña"
+            ],
+            "en": [
+                "Bahamian"
+            ],
+            "fr": [
+                "Bahaméen",
+                "Bahaméenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "BGD",
+        "country_name_es": "Bangladesh",
+        "country_name_en": "Bangladesh",
+        "demonym": {
+            "es": [
+                "Bangladesí"
+            ],
+            "en": [
+                "Bangladeshi"
+            ],
+            "fr": [
+                "Bangladais",
+                "Bangladaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "BRB",
+        "country_name_es": "Barbados",
+        "country_name_en": "Barbados",
+        "demonym": {
+            "es": [
+                "Barbadense"
+            ],
+            "en": [
+                "Barbadian"
+            ],
+            "fr": [
+                "Barbadien",
+                "Barbadienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "BHR",
+        "country_name_es": "Bahréin",
+        "country_name_en": "Bahrain",
+        "demonym": {
+            "es": [
+                "Bareiní"
+            ],
+            "en": [
+                "Bahraini"
+            ],
+            "fr": [
+                "Bahreïnien",
+                "Bahreïnienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "BEL",
+        "country_name_es": "Bélgica",
+        "country_name_en": "Belgium",
+        "demonym": {
+            "es": [
+                "Belga"
+            ],
+            "en": [
+                "Belgian"
+            ],
+            "fr": [
+                "Belge"
+            ]
+        }
+    },
+    {
+        "alpha3": "BLZ",
+        "country_name_es": "Belice",
+        "country_name_en": "Belize",
+        "demonym": {
+            "es": [
+                "Beliceño",
+                "Beliceña"
+            ],
+            "en": [
+                "Belizean"
+            ],
+            "fr": [
+                "Bélizien",
+                "Bélizienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "BEN",
+        "country_name_es": "Benín",
+        "country_name_en": "Benin",
+        "demonym": {
+            "es": [
+                "Beninés",
+                "Beninesa"
+            ],
+            "en": [
+                "Beninese"
+            ],
+            "fr": [
+                "Béninois",
+                "Béninoise"
+            ]
+        }
+    },
+    {
+        "alpha3": "BLR",
+        "country_name_es": "Bielorrusia",
+        "country_name_en": "Belarus",
+        "demonym": {
+            "es": [
+                "Bielorruso",
+                "Bielorrusa"
+            ],
+            "en": [
+                "Belarusian"
+            ],
+            "fr": [
+                "Biélorusse"
+            ]
+        }
+    },
+    {
+        "alpha3": "MMR",
+        "country_name_es": "Birmania",
+        "country_name_en": "Myanmar",
+        "demonym": {
+            "es": [
+                "Birmano",
+                "Birmana"
+            ],
+            "en": [
+                "Burmese"
+            ],
+            "fr": [
+                "Birman",
+                "Birmane"
+            ]
+        }
+    },
+    {
+        "alpha3": "BOL",
+        "country_name_es": "Bolivia",
+        "country_name_en": "Bolivia",
+        "demonym": {
+            "es": [
+                "Boliviano",
+                "Boliviana"
+            ],
+            "en": [
+                "Bolivian"
+            ],
+            "fr": [
+                "Bolivien", 
+                "Bolivienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "BIH",
+        "country_name_es": "Bosnia y Herzegovina",
+        "country_name_en": "Bosnia and Herzegovina",
+        "demonym": {
+            "es": [
+                "Bosnio",
+                "Bosnia",
+                "Bosnioherzegovino",
+                "Bosnioherzegovina"
+            ],
+            "en": [
+                "Bosnian",
+                "Herzegovinian"
+            ],
+            "fr": [
+                "Bosnien",
+                "Bosnienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "BWA",
+        "country_name_es": "Botsuana",
+        "country_name_en": "Botswana",
+        "demonym": {
+            "es": [
+                "Botsuano",
+                "Botsuana"
+            ],
+            "en": [
+                "Motswana"
+            ],
+            "fr": [
+                "Botswanais",
+                "Botswanaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "BRA",
+        "country_name_es": "Brasil",
+        "country_name_en": "Brazil",
+        "demonym": {
+            "es": [
+                "Brasileño",
+                "Brasileña",
+                "Brasilero",
+                "Brasilera"
+            ],
+            "en": [
+                "Brazilian"
+            ],
+            "fr": [
+                "Brésilien",
+                "Brésilienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "BRN",
+        "country_name_es": "Brunéi",
+        "country_name_en": "Brunei",
+        "demonym": {
+            "es": [
+                "Bruneano",
+                "Bruneana"
+            ],
+            "en": [
+                "Bruneian"
+            ],
+            "fr": [
+                "Brunéien",
+                "Brunéienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "BGR",
+        "country_name_es": "Bulgaria",
+        "country_name_en": "Bulgaria",
+        "demonym": {
+            "es": [
+                "Búlgaro",
+                "Búlgara"
+            ],
+            "en": [
+                "Bulgarian"
+            ],
+            "fr": [
+                "Bulgare"
+            ]
+        }
+    },
+    {
+        "alpha3": "BFA",
+        "country_name_es": "Burkina Faso",
+        "country_name_en": "Burkina Faso",
+        "demonym": {
+            "es": [
+                "Burkinés"
+            ],
+            "en": [
+                "Burkinabe"
+            ],
+            "fr": [
+                "Burkinabé",
+                "Burkinabée",
+                "Burkinais",
+                "Burkinaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "BDI",
+        "country_name_es": "Burundi",
+        "country_name_en": "Burundi",
+        "demonym": {
+            "es": [
+                "Burundés",
+                "Burundesa"
+            ],
+            "en": [
+                "Burundian"
+            ],
+            "fr": [
+                "Burundais",
+                "Burundaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "BTN",
+        "country_name_es": "Bután",
+        "country_name_en": "Bhutan",
+        "demonym": {
+            "es": [
+                "Butanés",
+                "Butanesa"
+            ],
+            "en": [
+                "Bhutanese"
+            ],
+            "fr": [
+                "Bhoutanais",
+                "Bhoutanaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "CPV",
+        "country_name_es": "Cabo Verde",
+        "country_name_en": "Cabo Verde",
+        "demonym": {
+            "es": [
+                "Caboverdiano",
+                "Caboverdiana"
+            ],
+            "en": [
+                "Cape Verdian"
+            ],
+            "fr": [
+                "Cap-Verdien",
+                "Cap-Verdienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "KHM",
+        "country_name_es": "Camboya",
+        "country_name_en": "Cambodia",
+        "demonym": {
+            "es": [
+                "Camboyano",
+                "Camboyana"
+            ],
+            "en": [
+                "Cambodian"
+            ],
+            "fr": [
+                "Cambodgien",
+                "Cambodgienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "CMR",
+        "country_name_es": "Camerún",
+        "country_name_en": "Cameroon",
+        "demonym": {
+            "es": [
+                "Camerunés",
+                "Camerunesa"
+            ],
+            "en": [
+                "Cameroonian"
+            ],
+            "fr": [
+                "Camerounais",
+                "Camerounaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "CAN",
+        "country_name_es": "Canadá",
+        "country_name_en": "Canada",
+        "demonym": {
+            "es": [
+                "Canadiense"
+            ],
+            "en": [
+                "Canadian"
+            ],
+            "fr": [
+                "Canadien",
+                "Canadienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "QAT",
+        "country_name_es": "Catar",
+        "country_name_en": "Qatar",
+        "demonym": {
+            "es": [
+                "Catarí"
+            ],
+            "en": [
+                "Qatari"
+            ],
+            "fr": [
+                "Qatarien",
+                "Qatarienne",
+                "Qatari",
+                "Qatariote"
+            ]
+        }
+    },
+    {
+        "alpha3": "TCD",
+        "country_name_es": "Chad",
+        "country_name_en": "Chad",
+        "demonym": {
+            "es": [
+                "Chadiano",
+                "Chadiana"
+            ],
+            "en": [
+                "Chadian"
+            ],
+            "fr": [
+                "Tchadien",
+                "Tchadienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "CHL",
+        "country_name_es": "Chile",
+        "country_name_en": "Chile",
+        "demonym": {
+            "es": [
+                "Chileno",
+                "Chilena"
+            ],
+            "en": [
+                "Chilean"
+            ],
+            "fr": [
+                "Chilien",
+                "Chilienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "CHN",
+        "country_name_es": "China",
+        "country_name_en": "China",
+        "demonym": {
+            "es": [
+                "Chino",
+                "China"
+            ],
+            "en": [
+                "Chinese"
+            ],
+            "fr": [
+                "Chinois",
+                "Chinoise"
+            ]
+        }
+    },
+    {
+        "alpha3": "CYP",
+        "country_name_es": "Chipre",
+        "country_name_en": "Cyprus",
+        "demonym": {
+            "es": [
+                "Chipriota"
+            ],
+            "en": [
+                "Cypriot"
+            ],
+            "fr": [
+                "Chypriotes ou Cypriotes"
+            ]
+        }
+    },
+    {
+        "alpha3": "VAT",
+        "country_name_es": "Ciudad del Vaticano",
+        "country_name_en": "Holy See",
+        "demonym": {
+            "es": [
+                "Vaticano",
+                "Vaticana"
+            ],
+            "en": [
+                "Vatican"
+            ],
+            "fr": [
+                "Vatican",
+                "Vaticane"
+            ]
+        }
+    },
+    {
+        "alpha3": "COL",
+        "country_name_es": "Colombia",
+        "country_name_en": "Colombia",
+        "demonym": {
+            "es": [
+                "Colombiano",
+                "Colombiana"
+            ],
+            "en": [
+                "Colombian"
+            ],
+            "fr": [
+                "Colombien",
+                "Colombienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "COM",
+        "country_name_es": "Comoras",
+        "country_name_en": "Comoros",
+        "demonym": {
+            "es": [
+                "Comorense"
+            ],
+            "en": [
+                "Comoran"
+            ],
+            "fr": [
+                "Comorien",
+                "Comorienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "PRK",
+        "country_name_es": "Corea del Norte",
+        "country_name_en": "Democratic People's Republic of Korea",
+        "demonym": {
+            "es": [
+                "Norcoreano",
+                "Norcoreana"
+            ],
+            "en": [
+                "North Korean"
+            ],
+            "fr": [
+                "Nordcoréen",
+                "Nordcoréenne",
+                "Nord-Coréen",
+                "Nord-Coréenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "KOR",
+        "country_name_es": "Corea del Sur",
+        "country_name_en": "Republic of Korea",
+        "demonym": {
+            "es": [
+                "Surcoreano",
+                "Surcoreana"
+            ],
+            "en": [
+                "South Korean"
+            ],
+            "fr": [
+                "Sudcoréen",
+                "Sudcoréenne",
+                "Sud-Coréen",
+                "Sud-Coréenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "CIV",
+        "country_name_es": "Costa de Marfil",
+        "country_name_en": "Côte d'Ivoire",
+        "demonym": {
+            "es": [
+                "Marfileño",
+                "Marfileña"
+            ],
+            "en": [
+                "Ivorian"
+            ],
+            "fr": [
+                "Ivoirien",
+                "Ivoirienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "CRI",
+        "country_name_es": "Costa Rica",
+        "country_name_en": "Costa Rica",
+        "demonym": {
+            "es": [
+                "Costarricense"
+            ],
+            "en": [
+                "Costa Rican"
+            ],
+            "fr": [
+                "Costaricien",
+                "Costaricienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "HRV",
+        "country_name_es": "Croacia",
+        "country_name_en": "Croatia",
+        "demonym": {
+            "es": [
+                "Croata"
+            ],
+            "en": [
+                "Croatian"
+            ],
+            "fr": [
+                "Croate"
+            ]
+        }
+    },
+    {
+        "alpha3": "CUB",
+        "country_name_es": "Cuba",
+        "country_name_en": "Cuba",
+        "demonym": {
+            "es": [
+                "Cubano",
+                "Cubana"
+            ],
+            "en": [
+                "Cuban"
+            ],
+            "fr": [
+                "Cubain",
+                "Cubaine"
+            ]
+        }
+    },
+    {
+        "alpha3": "DNK",
+        "country_name_es": "Dinamarca",
+        "country_name_en": "Denmark",
+        "demonym": {
+            "es": [
+                "Danés",
+                "Danesa"
+            ],
+            "en": [
+                "Danish"
+            ],
+            "fr": [
+                "Danois",
+                "Danoise"
+            ]
+        }
+    },
+    {
+        "alpha3": "DMA",
+        "country_name_es": "Dominica",
+        "country_name_en": "Dominica",
+        "demonym": {
+            "es": [
+                "Dominiqués"
+            ],
+            "en": [
+                "Dominican"
+            ],
+            "fr": [
+                "Dominiquais",
+                "Dominiquaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "ECU",
+        "country_name_es": "Ecuador",
+        "country_name_en": "Ecuador",
+        "demonym": {
+            "es": [
+                "Ecuatoriano",
+                "Ecuatoriana"
+            ],
+            "en": [
+                "Ecuadorean"
+            ],
+            "fr": [
+                "Équatorien",
+                "Équatorienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "EGY",
+        "country_name_es": "Egipto",
+        "country_name_en": "Egypt",
+        "demonym": {
+            "es": [
+                "Egipcio",
+                "Egipcia"
+            ],
+            "en": [
+                "Egyptian"
+            ],
+            "fr": [
+                "Égyptien",
+                "Égyptienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "SLV",
+        "country_name_es": "El Salvador",
+        "country_name_en": "El Salvador",
+        "demonym": {
+            "es": [
+                "Salvadoreño",
+                "Salvadoreña"
+            ],
+            "en": [
+                "Salvadoran"
+            ],
+            "fr": [
+                "Salvadorien",
+                "Salvadorienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "ARE",
+        "country_name_es": "Emiratos Árabes Unidos",
+        "country_name_en": "United Arab Emirates",
+        "demonym": {
+            "es": [
+                "Emiratí"
+            ],
+            "en": [
+                "Emirati"
+            ],
+            "fr": [
+                "Émirien",
+                "Émirienne",
+                "Émirati"
+            ]
+        }
+    },
+    {
+        "alpha3": "ERI",
+        "country_name_es": "Eritrea",
+        "country_name_en": "Eritrea",
+        "demonym": {
+            "es": [
+                "Eritreo",
+                "Eritrea"
+            ],
+            "en": [
+                "Eritrean"
+            ],
+            "fr": [
+                "Érythréen",
+                "Érythréenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "SVK",
+        "country_name_es": "Eslovaquia",
+        "country_name_en": "Slovakia",
+        "demonym": {
+            "es": [
+                "Eslovaco",
+                "Eslovaca"
+            ],
+            "en": [
+                "Slovak"
+            ],
+            "fr": [
+                "Slovaque"
+            ]
+        }
+    },
+    {
+        "alpha3": "SVN",
+        "country_name_es": "Eslovenia",
+        "country_name_en": "Slovenia",
+        "demonym": {
+            "es": [
+                "Esloveno",
+                "Eslovena"
+            ],
+            "en": [
+                "Slovene"
+            ],
+            "fr": [
+                "Slovène"
+            ]
+        }
+    },
+    {
+        "alpha3": "ESP",
+        "country_name_es": "España",
+        "country_name_en": "Spain",
+        "demonym": {
+            "es": [
+                "Español",
+                "Española"
+            ],
+            "en": [
+                "Spanish"
+            ],
+            "fr": [
+                "Espagnol",
+                "Espagnole"
+            ]
+        }
+    },
+    {
+        "alpha3": "USA",
+        "country_name_es": "Estados Unidos",
+        "country_name_en": "United States",
+        "demonym": {
+            "es": [
+                "Estadounidense"
+            ],
+            "en": [
+                "American"
+            ],
+            "fr": [
+                "Américain",
+                "Américaine"
+            ]
+        }
+    },
+    {
+        "alpha3": "EST",
+        "country_name_es": "Estonia",
+        "country_name_en": "Estonia",
+        "demonym": {
+            "es": [
+                "Estonio",
+                "Estona"
+            ],
+            "en": [
+                "Estonian"
+            ],
+            "fr": [
+                "Estonien",
+                "Estonienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "ETH",
+        "country_name_es": "Etiopía",
+        "country_name_en": "Ethiopia",
+        "demonym": {
+            "es": [
+                "Etíope"
+            ],
+            "en": [
+                "Ethiopian"
+            ],
+            "fr": [
+                "Éthiopien",
+                "Éthiopienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "PHL",
+        "country_name_es": "Filipinas",
+        "country_name_en": "Philippines",
+        "demonym": {
+            "es": [
+                "Filipino",
+                "Filipina"
+            ],
+            "en": [
+                "Filipino"
+            ],
+            "fr": [
+                "Philippin",
+                "Philippine"
+            ]
+        }
+    },
+    {
+        "alpha3": "FIN",
+        "country_name_es": "Finlandia",
+        "country_name_en": "Finland",
+        "demonym": {
+            "es": [
+                "Finlandés",
+                "Finlandesa"
+            ],
+            "en": [
+                "Finnish"
+            ],
+            "fr": [
+                "Finlandais",
+                "Finlandaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "FJI",
+        "country_name_es": "Fiyi",
+        "country_name_en": "Fiji",
+        "demonym": {
+            "es": [
+                "Fiyiano",
+                "Fiyiana"
+            ],
+            "en": [
+                "Fijian"
+            ],
+            "fr": [
+                "Fidjien",
+                "Fidjienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "FRA",
+        "country_name_es": "Francia",
+        "country_name_en": "France",
+        "demonym": {
+            "es": [
+                "Francés",
+                "Francesa"
+            ],
+            "en": [
+                "French"
+            ],
+            "fr": [
+                "Français",
+                "Française"
+            ]
+        }
+    },
+    {
+        "alpha3": "GAB",
+        "country_name_es": "Gabón",
+        "country_name_en": "Gabon",
+        "demonym": {
+            "es": [
+                "Gabonés",
+                "Gabonesa"
+            ],
+            "en": [
+                "Gabonese"
+            ],
+            "fr": [
+                "Gabonais",
+                "Gabonaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "GMB",
+        "country_name_es": "Gambia",
+        "country_name_en": "Gambia",
+        "demonym": {
+            "es": [
+                "Gambiano",
+                "Gambiana"
+            ],
+            "en": [
+                "Gambian"
+            ],
+            "fr": [
+                "Gambien",
+                "Gambienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "GEO",
+        "country_name_es": "Georgia",
+        "country_name_en": "Georgia",
+        "demonym": {
+            "es": [
+                "Georgiano",
+                "Georgiana"
+            ],
+            "en": [
+                "Georgian"
+            ],
+            "fr": [
+                "Géorgien",
+                "Géorgienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "GHA",
+        "country_name_es": "Ghana",
+        "country_name_en": "Ghana",
+        "demonym": {
+            "es": [
+                "Ghanés",
+                "Ghanesa"
+            ],
+            "en": [
+                "Ghanaian"
+            ],
+            "fr": [
+                "Ghanéen",
+                "Ghanéenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "GRD",
+        "country_name_es": "Granada",
+        "country_name_en": "Grenada",
+        "demonym": {
+            "es": [
+                "Granadino",
+                "Granadina"
+            ],
+            "en": [
+                "Grenadian"
+            ],
+            "fr": [
+                "Grenadin",
+                "Grenadine",
+                "Grenadien",
+                "Grenadienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "GRC",
+        "country_name_es": "Grecia",
+        "country_name_en": "Greece",
+        "demonym": {
+            "es": [
+                "Griego",
+                "Griega"
+            ],
+            "en": [
+                "Greek"
+            ],
+            "fr": [
+                "Grec",
+                "Grecque"
+            ]
+        }
+    },
+    {
+        "alpha3": "GTM",
+        "country_name_es": "Guatemala",
+        "country_name_en": "Guatemala",
+        "demonym": {
+            "es": [
+                "Guatemalteco",
+                "Guatemalteca"
+            ],
+            "en": [
+                "Guatemalan"
+            ],
+            "fr": [
+                "Guatémaltèque"
+            ]
+        }
+    },
+    {
+        "alpha3": "GNQ",
+        "country_name_es": "Guinea ecuatorial",
+        "country_name_en": "Equatorial Guinea",
+        "demonym": {
+            "es": [
+                "Ecuatoguineano",
+                "Ecuatoguineana"
+            ],
+            "en": [
+                "Equatorial Guinean"
+            ],
+            "fr": [
+                "Équatoguinéen",
+                "Équatoguinéenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "GIN",
+        "country_name_es": "Guinea",
+        "country_name_en": "Guinea",
+        "demonym": {
+            "es": [
+                "Guineano",
+                "Guineana"
+            ],
+            "en": [
+                "Guinean"
+            ],
+            "fr": [
+                "Guinéen",
+                "Guinéenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "GNB",
+        "country_name_es": "Guinea-Bisáu",
+        "country_name_en": "Guinea-Bissau",
+        "demonym": {
+            "es": [
+                "Guineano",
+                "Guineana"
+            ],
+            "en": [
+                "Guinea-Bissauan"
+            ],
+            "fr": [
+                "Bissau-Guinéen",
+                "Bissau-Guinéenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "GUY",
+        "country_name_es": "Guyana",
+        "country_name_en": "Guyana",
+        "demonym": {
+            "es": [
+                "Guyanés",
+                "Guyanesa"
+            ],
+            "en": [
+                "Guyanese"
+            ],
+            "fr": [
+                "Guyanais",
+                "Guyanaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "HTI",
+        "country_name_es": "Haití",
+        "country_name_en": "Haiti",
+        "demonym": {
+            "es": [
+                "Haitiano",
+                "Haitiana"
+            ],
+            "en": [
+                "Haitian"
+            ],
+            "fr": [
+                "Haïtien",
+                "Haïtienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "HND",
+        "country_name_es": "Honduras",
+        "country_name_en": "Honduras",
+        "demonym": {
+            "es": [
+                "Hondureño",
+                "Hondureña"
+            ],
+            "en": [
+                "Honduran"
+            ],
+            "fr": [
+                "Hondurien",
+                "Hondurienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "HUN",
+        "country_name_es": "Hungría",
+        "country_name_en": "Hungary",
+        "demonym": {
+            "es": [
+                "Húngaro",
+                "Húngara"
+            ],
+            "en": [
+                "Hungarian"
+            ],
+            "fr": [
+                "Hongrois",
+                "Hongroise"
+            ]
+        }
+    },
+    {
+        "alpha3": "IND",
+        "country_name_es": "India",
+        "country_name_en": "India",
+        "demonym": {
+            "es": [
+                "Indio",
+                "India"
+            ],
+            "en": [
+                "Indian"
+            ],
+            "fr": [
+                "Indien",
+                "Indienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "IDN",
+        "country_name_es": "Indonesia",
+        "country_name_en": "Indonesia",
+        "demonym": {
+            "es": [
+                "Indonesio",
+                "Indonesia"
+            ],
+            "en": [
+                "Indonesian"
+            ],
+            "fr": [
+                "Indonésien",
+                "Indonésienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "IRQ",
+        "country_name_es": "Irak",
+        "country_name_en": "Iraq",
+        "demonym": {
+            "es": [
+                "Iraquí"
+            ],
+            "en": [
+                "Iraqi"
+            ],
+            "fr": [
+                "Irakien",
+                "Irakienne",
+                "Iraquien",
+                "Iraquienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "IRN",
+        "country_name_es": "Irán",
+        "country_name_en": "Iran",
+        "demonym": {
+            "es": [
+                "Iraní"
+            ],
+            "en": [
+                "Iranian"
+            ],
+            "fr": [
+                "Iranien",
+                "Iranienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "IRL",
+        "country_name_es": "Irlanda",
+        "country_name_en": "Ireland",
+        "demonym": {
+            "es": [
+                "Irlandés",
+                "Irlandesa"
+            ],
+            "en": [
+                "Irish"
+            ],
+            "fr": [
+                "Irlandais",
+                "Irlandaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "ISL",
+        "country_name_es": "Islandia",
+        "country_name_en": "Iceland",
+        "demonym": {
+            "es": [
+                "Islandés",
+                "Islandesa"
+            ],
+            "en": [
+                "Icelander"
+            ],
+            "fr": [
+                "Islandais",
+                "Islandaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "MHL",
+        "country_name_es": "Islas Marshall",
+        "country_name_en": "Marshall Islands",
+        "demonym": {
+            "es": [
+                "Marshalés",
+                "Marshalina"
+            ],
+            "en": [
+                "Marshallese"
+            ],
+            "fr": [
+                "Marshallais",
+                "Marshallaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "SLB",
+        "country_name_es": "Islas Salomón",
+        "country_name_en": "Solomon Islands",
+        "demonym": {
+            "es": [
+                "Salomonense"
+            ],
+            "en": [
+                "Solomon Islander"
+            ],
+            "fr": [
+                "Salomonien",
+                "Salomonais"
+            ]
+        }
+    },
+    {
+        "alpha3": "ISR",
+        "country_name_es": "Israel",
+        "country_name_en": "Israel",
+        "demonym": {
+            "es": [
+                "Israelí"
+            ],
+            "en": [
+                "Israeli"
+            ],
+            "fr": [
+                "Israëlien",
+                "Israëlienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "ITA",
+        "country_name_es": "Italia",
+        "country_name_en": "Italy",
+        "demonym": {
+            "es": [
+                "Italiano",
+                "Italiana"
+            ],
+            "en": [
+                "Italian"
+            ],
+            "fr": [
+                "Italien",
+                "Italienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "JAM",
+        "country_name_es": "Jamaica",
+        "country_name_en": "Jamaica",
+        "demonym": {
+            "es": [
+                "Jamaicano",
+                "Jamaicana",
+                "Jamaiquino",
+                "Jamaiquina"
+            ],
+            "en": [
+                "Jamaican"
+            ],
+            "fr": [
+                "Jamaïcain",
+                "Jamaïcaine"
+            ]
+        }
+    },
+    {
+        "alpha3": "JPN",
+        "country_name_es": "Japón",
+        "country_name_en": "Japan",
+        "demonym": {
+            "es": [
+                "Japonés",
+                "Japonesa"
+            ],
+            "en": [
+                "Japanese"
+            ],
+            "fr": [
+                "Japonais",
+                "Japonaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "JOR",
+        "country_name_es": "Jordania",
+        "country_name_en": "Jordan",
+        "demonym": {
+            "es": [
+                "Jordano",
+                "Jordana"
+            ],
+            "en": [
+                "Jordanian"
+            ],
+            "fr": [
+                "Jordanien",
+                "Jordanienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "KAZ",
+        "country_name_es": "Kazajistán",
+        "country_name_en": "Kazakhstan",
+        "demonym": {
+            "es": [
+                "Kazajo",
+                "Kazaja"
+            ],
+            "en": [
+                "Kazakhstani"
+            ],
+            "fr": [
+                "Kazakh",
+                "Kazakhe",
+                "Kazakhstanais",
+                "Kazakhstanaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "KEN",
+        "country_name_es": "Kenia",
+        "country_name_en": "Kenya",
+        "demonym": {
+            "es": [
+                "Keniano",
+                "Kenia",
+                "Keniata"
+            ],
+            "en": [
+                "Kenyan"
+            ],
+            "fr": [
+                "Kényan",
+                "Kényane"
+            ]
+        }
+    },
+    {
+        "alpha3": "KGZ",
+        "country_name_es": "Kirguistán",
+        "country_name_en": "Kyrgyzstan",
+        "demonym": {
+            "es": [
+                "Kirguís",
+                "Kirguisa",
+                "Kirguiso",
+                "Kirguisa"
+            ],
+            "en": [
+                "Kirghiz"
+            ],
+            "fr": [
+                "Kirghize"
+            ]
+        }
+    },
+    {
+        "alpha3": "KIR",
+        "country_name_es": "Kiribati",
+        "country_name_en": "Kiribati",
+        "demonym": {
+            "es": [
+                "Kiribatiano",
+                "Kiribatiana"
+            ],
+            "en": [
+                "I-Kiribati"
+            ],
+            "fr": [
+                "Gilbertin",
+                "Gilbertine"
+            ]
+        }
+    },
+    {
+        "alpha3": "KWT",
+        "country_name_es": "Kuwait",
+        "country_name_en": "Kuwait",
+        "demonym": {
+            "es": [
+                "Kuwaití"
+            ],
+            "en": [
+                "Kuwaiti"
+            ],
+            "fr": [
+                "Koweïtien",
+                "Koweïtienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "LAO",
+        "country_name_es": "Laos",
+        "country_name_en": "Laos",
+        "demonym": {
+            "es": [
+                "Laosiano",
+                "Laosiana"
+            ],
+            "en": [
+                "Laotian"
+            ],
+            "fr": [
+                "Laotien",
+                "Laotienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "LSO",
+        "country_name_es": "Lesoto",
+        "country_name_en": "Lesotho",
+        "demonym": {
+            "es": [
+                "Lesotense"
+            ],
+            "en": [
+                "Mosotho"
+            ],
+            "fr": [
+                "Mosotho",
+                "Plural Basotho"
+            ]
+        }
+    },
+    {
+        "alpha3": "LVA",
+        "country_name_es": "Letonia",
+        "country_name_en": "Latvia",
+        "demonym": {
+            "es": [
+                "Letón",
+                "Leta"
+            ],
+            "en": [
+                "Latvian"
+            ],
+            "fr": [
+                "Letton",
+                "Lettone"
+            ]
+        }
+    },
+    {
+        "alpha3": "LBN",
+        "country_name_es": "Líbano",
+        "country_name_en": "Lebanon",
+        "demonym": {
+            "es": [
+                "Libanés",
+                "Libanesa"
+            ],
+            "en": [
+                "Lebanese"
+            ],
+            "fr": [
+                "Libanais",
+                "Libanaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "LBR",
+        "country_name_es": "Liberia",
+        "country_name_en": "Liberia",
+        "demonym": {
+            "es": [
+                "Liberiano",
+                "Liberiana"
+            ],
+            "en": [
+                "Liberian"
+            ],
+            "fr": [
+                "Libérien",
+                "Libérienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "LBY",
+        "country_name_es": "Libia",
+        "country_name_en": "Libya",
+        "demonym": {
+            "es": [
+                "Libio",
+                "Libia"
+            ],
+            "en": [
+                "Libyan"
+            ],
+            "fr": [
+                "Libyen",
+                "Libyenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "LIE",
+        "country_name_es": "Liechtenstein",
+        "country_name_en": "Liechtenstein",
+        "demonym": {
+            "es": [
+                "Liechtensteiniano",
+                "Liechtensteiniana"
+            ],
+            "en": [
+                "Liechtensteiner"
+            ],
+            "fr": [
+                "Liechtensteinois",
+                "Liechtensteinoise"
+            ]
+        }
+    },
+    {
+        "alpha3": "LTU",
+        "country_name_es": "Lituania",
+        "country_name_en": "Lithuania",
+        "demonym": {
+            "es": [
+                "Lituano",
+                "Lituana"
+            ],
+            "en": [
+                "Lithuanian"
+            ],
+            "fr": [
+                "Lituanien",
+                "Lituanienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "LUX",
+        "country_name_es": "Luxemburgo",
+        "country_name_en": "Luxembourg",
+        "demonym": {
+            "es": [
+                "Luxemburgués",
+                "Luxemburguesa"
+            ],
+            "en": [
+                "Luxembourger"
+            ],
+            "fr": [
+                "Luxembourgeois",
+                "Luxembourgeoise"
+            ]
+        }
+    },
+    {
+        "alpha3": "MDG",
+        "country_name_es": "Madagascar",
+        "country_name_en": "Madagascar",
+        "demonym": {
+            "es": [
+                "Malgache"
+            ],
+            "en": [
+                "Malagasy"
+            ],
+            "fr": [
+                "Malgache",
+                "Malagasy"
+            ]
+        }
+    },
+    {
+        "alpha3": "MYS",
+        "country_name_es": "Malasia",
+        "country_name_en": "Malaysia",
+        "demonym": {
+            "es": [
+                "Malasio",
+                "Malasia"
+            ],
+            "en": [
+                "Malaysian"
+            ],
+            "fr": [
+                "Malaisien",
+                "Malaisienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "MWI",
+        "country_name_es": "Malaui",
+        "country_name_en": "Malawi",
+        "demonym": {
+            "es": [
+                "Malauí"
+            ],
+            "en": [
+                "Malawian"
+            ],
+            "fr": [
+                "Malawites",
+                "Malawien",
+                "Malawienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "MDV",
+        "country_name_es": "Maldivas",
+        "country_name_en": "Maldives",
+        "demonym": {
+            "es": [
+                "Maldivo",
+                "Maldiva"
+            ],
+            "en": [
+                "Maldivan"
+            ],
+            "fr": [
+                "Maldivien",
+                "Maldivienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "MLI",
+        "country_name_es": "Malí",
+        "country_name_en": "Mali",
+        "demonym": {
+            "es": [
+                "Maliense",
+                "Malí"
+            ],
+            "en": [
+                "Malian"
+            ],
+            "fr": [
+                "Malien",
+                "Malienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "MLT",
+        "country_name_es": "Malta",
+        "country_name_en": "Malta",
+        "demonym": {
+            "es": [
+                "Maltés",
+                "Maltesa"
+            ],
+            "en": [
+                "Maltese"
+            ],
+            "fr": [
+                "Maltais",
+                "Maltaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "MAR",
+        "country_name_es": "Marruecos",
+        "country_name_en": "Morocco",
+        "demonym": {
+            "es": [
+                "Marroquí"
+            ],
+            "en": [
+                "Moroccan"
+            ],
+            "fr": [
+                "Marocain",
+                "Marocaine"
+            ]
+        }
+    },
+    {
+        "alpha3": "MUS",
+        "country_name_es": "Mauricio",
+        "country_name_en": "Mauritius",
+        "demonym": {
+            "es": [
+                "Mauriciano",
+                "Mauriciana"
+            ],
+            "en": [
+                "Mauritian"
+            ],
+            "fr": [
+                "Mauricien",
+                "Mauricienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "MRT",
+        "country_name_es": "Mauritania",
+        "country_name_en": "Mauritania",
+        "demonym": {
+            "es": [
+                "Mauritano",
+                "Mauritana"
+            ],
+            "en": [
+                "Mauritanian"
+            ],
+            "fr": [
+                "Mauritanien",
+                "Mauritanienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "MEX",
+        "country_name_es": "México",
+        "country_name_en": "Mexico",
+        "demonym": {
+            "es": [
+                "Mexicano",
+                "Mexicana"
+            ],
+            "en": [
+                "Mexican"
+            ],
+            "fr": [
+                "Mexicain",
+                "Mexicaine"
+            ]
+        }
+    },
+    {
+        "alpha3": "FSM",
+        "country_name_es": "Micronesia",
+        "country_name_en": "Micronesia",
+        "demonym": {
+            "es": [
+                "Micronesio",
+                "Micronesia"
+            ],
+            "en": [
+                "Micronesian"
+            ],
+            "fr": [
+                "Micronésien"
+            ]
+        }
+    },
+    {
+        "alpha3": "MDA",
+        "country_name_es": "Moldavia",
+        "country_name_en": "Moldova",
+        "demonym": {
+            "es": [
+                "Moldavo",
+                "Moldava"
+            ],
+            "en": [
+                "Moldovan"
+            ],
+            "fr": [
+                "Moldave"
+            ]
+        }
+    },
+    {
+        "alpha3": "MCO",
+        "country_name_es": "Mónaco",
+        "country_name_en": "Monaco",
+        "demonym": {
+            "es": [
+                "Monegasco",
+                "Monegasca"
+            ],
+            "en": [
+                "Monegasque"
+            ],
+            "fr": [
+                "Monégasque"
+            ]
+        }
+    },
+    {
+        "alpha3": "MNG",
+        "country_name_es": "Mongolia",
+        "country_name_en": "Mongolia",
+        "demonym": {
+            "es": [
+                "Mongol",
+                "Mongola"
+            ],
+            "en": [
+                "Mongolian"
+            ],
+            "fr": [
+                "Mongol",
+                "Mongole"
+            ]
+        }
+    },
+    {
+        "alpha3": "MNE",
+        "country_name_es": "Montenegro",
+        "country_name_en": "Montenegro",
+        "demonym": {
+            "es": [
+                "Montenegrino",
+                "Montenegrina"
+            ],
+            "en": [
+                "Montenegrin"
+            ],
+            "fr": [
+                "Monténégrin",
+                "Monténégrine"
+            ]
+        }
+    },
+    {
+        "alpha3": "MOZ",
+        "country_name_es": "Mozambique",
+        "country_name_en": "Mozambique",
+        "demonym": {
+            "es": [
+                "Mozambiqueño",
+                "Mozambiqueña"
+            ],
+            "en": [
+                "Mozambican"
+            ],
+            "fr": [
+                "Mozambicain",
+                "Mozambicaine"
+            ]
+        }
+    },
+    {
+        "alpha3": "NAM",
+        "country_name_es": "Namibia",
+        "country_name_en": "Namibia",
+        "demonym": {
+            "es": [
+                "Namibio",
+                "Namibia"
+            ],
+            "en": [
+                "Namibian"
+            ],
+            "fr": [
+                "Namibien",
+                "Namibienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "NRU",
+        "country_name_es": "Nauru",
+        "country_name_en": "Nauru",
+        "demonym": {
+            "es": [
+                "Nauruano",
+                "Nauruana"
+            ],
+            "en": [
+                "Nauruan"
+            ],
+            "fr": [
+                "Nauruan",
+                "Nauruane"
+            ]
+        }
+    },
+    {
+        "alpha3": "NPL",
+        "country_name_es": "Nepal",
+        "country_name_en": "Nepal",
+        "demonym": {
+            "es": [
+                "Nepalés",
+                "Nepalesa",
+                "Nepalí"
+            ],
+            "en": [
+                "Nepalese"
+            ],
+            "fr": [
+                "Népalais",
+                "Népalaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "NIC",
+        "country_name_es": "Nicaragua",
+        "country_name_en": "Nicaragua",
+        "demonym": {
+            "es": [
+                "Nicaragüense"
+            ],
+            "en": [
+                "Nicaraguan"
+            ],
+            "fr": [
+                "Nicaraguayen",
+                "Nicaraguayenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "NER",
+        "country_name_es": "Níger",
+        "country_name_en": "Niger",
+        "demonym": {
+            "es": [
+                "Nigerino",
+                "Nigerina"
+            ],
+            "en": [
+                "Nigerien"
+            ],
+            "fr": [
+                "Nigérien",
+                "Nigérienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "NGA",
+        "country_name_es": "Nigeria",
+        "country_name_en": "Nigeria",
+        "demonym": {
+            "es": [
+                "Nigeriano",
+                "Nigeriana"
+            ],
+            "en": [
+                "Nigerian"
+            ],
+            "fr": [
+                "Nigérian",
+                "Nigériane"
+            ]
+        }
+    },
+    {
+        "alpha3": "NOR",
+        "country_name_es": "Noruega",
+        "country_name_en": "Norway",
+        "demonym": {
+            "es": [
+                "Noruego",
+                "Noruega"
+            ],
+            "en": [
+                "Norwegian"
+            ],
+            "fr": [
+                "Norvégien",
+                "Norvégienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "NZL",
+        "country_name_es": "Nueva Zelanda",
+        "country_name_en": "New Zealand",
+        "demonym": {
+            "es": [
+                "Neozelandés",
+                "Neozelandesa"
+            ],
+            "en": [
+                "New Zealander"
+            ],
+            "fr": [
+                "Néozélandais",
+                "Néozélandaise",
+                "Néo-Zélandais",
+                "Néo-Zélandaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "OMN",
+        "country_name_es": "Omán",
+        "country_name_en": "Oman",
+        "demonym": {
+            "es": [
+                "Omaní"
+            ],
+            "en": [
+                "Omani"
+            ],
+            "fr": [
+                "Omanais",
+                "Omanaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "NLD",
+        "country_name_es": "Países Bajos",
+        "country_name_en": "Netherlands",
+        "demonym": {
+            "es": [
+                "Neerlandés",
+                "Neerlandesa"
+            ],
+            "en": [
+                "Dutch"
+            ],
+            "fr": [
+                "Néerlandais",
+                "Néerlandaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "PAK",
+        "country_name_es": "Pakistán",
+        "country_name_en": "Pakistan",
+        "demonym": {
+            "es": [
+                "Pakistaní"
+            ],
+            "en": [
+                "Pakistani"
+            ],
+            "fr": [
+                "Pakistanais",
+                "Pakistanaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "PLW",
+        "country_name_es": "Palaos",
+        "country_name_en": "Palau",
+        "demonym": {
+            "es": [
+                "Palauano",
+                "Palauana"
+            ],
+            "en": [
+                "Palauan"
+            ],
+            "fr": [
+                "Paluan",
+                "Paluane"
+            ]
+        }
+    },
+    {
+        "alpha3": "PSE",
+        "country_name_es": "Palestina",
+        "country_name_en": "Palestine",
+        "demonym": {
+            "es": [
+                "Palestino",
+                "Palestina"
+            ],
+            "en": [
+                "Palestinian"
+            ],
+            "fr": [
+                "Palestinien",
+                "Palestinienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "PAN",
+        "country_name_es": "Panamá",
+        "country_name_en": "Panama",
+        "demonym": {
+            "es": [
+                "Panameño",
+                "Panameña"
+            ],
+            "en": [
+                "Panamanian"
+            ],
+            "fr": [
+                "Panaméen",
+                "Panaméenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "PNG",
+        "country_name_es": "Papúa Nueva Guinea",
+        "country_name_en": "Papua New Guinea",
+        "demonym": {
+            "es": [
+                "Papú"
+            ],
+            "en": [
+                "Papua New Guinean"
+            ],
+            "fr": [
+                "Papouasien",
+                "Papouasienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "PRY",
+        "country_name_es": "Paraguay",
+        "country_name_en": "Paraguay",
+        "demonym": {
+            "es": [
+                "Paraguayo",
+                "Paraguaya"
+            ],
+            "en": [
+                "Paraguayan"
+            ],
+            "fr": [
+                "Paraguayen",
+                "Paraguayenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "PER",
+        "country_name_es": "Perú",
+        "country_name_en": "Peru",
+        "demonym": {
+            "es": [
+                "Peruano",
+                "Peruana"
+            ],
+            "en": [
+                "Peruvian"
+            ],
+            "fr": [
+                "Péruvien",
+                "Péruvienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "POL",
+        "country_name_es": "Polonia",
+        "country_name_en": "Poland",
+        "demonym": {
+            "es": [
+                "Polaco",
+                "Polaca"
+            ],
+            "en": [
+                "Polish"
+            ],
+            "fr": [
+                "Polonais",
+                "Polonaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "PRT",
+        "country_name_es": "Portugal",
+        "country_name_en": "Portugal",
+        "demonym": {
+            "es": [
+                "Portugués",
+                "Portuguesa"
+            ],
+            "en": [
+                "Portuguese"
+            ],
+            "fr": [
+                "Portugais",
+                "Portugaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "GBR",
+        "country_name_es": "Reino Unido",
+        "country_name_en": "United Kingdom",
+        "demonym": {
+            "es": [
+                "Británico",
+                "Británica"
+            ],
+            "en": [
+                "British"
+            ],
+            "fr": [
+                "Britannique"
+            ]
+        }
+    },
+    {
+        "alpha3": "CAF",
+        "country_name_es": "República Centroafricana",
+        "country_name_en": "Central African Republic",
+        "demonym": {
+            "es": [
+                "Centroafricano",
+                "Centroafricana"
+            ],
+            "en": [
+                "Central African"
+            ],
+            "fr": [
+                "Centrafricain",
+                "Centrafricaine"
+            ]
+        }
+    },
+    {
+        "alpha3": "CZE",
+        "country_name_es": "República Checa",
+        "country_name_en": "Czechia",
+        "demonym": {
+            "es": [
+                "Checo",
+                "Checa"
+            ],
+            "en": [
+                "Czech"
+            ],
+            "fr": [
+                "Tchèque"
+            ]
+        }
+    },
+    {
+        "alpha3": "MKD",
+        "country_name_es": "República de Macedonia",
+        "country_name_en": "North Macedonia",
+        "demonym": {
+            "es": [
+                "Macedonio",
+                "Macedonia"
+            ],
+            "en": [
+                "Macedonian"
+            ],
+            "fr": [
+                "Macédonien",
+                "Macédonienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "COD",
+        "country_name_es": "República Democrática del Congo",
+        "country_name_en": "Democratic Republic of the Congo",
+        "demonym": {
+            "es": [
+                "Congoleño",
+                "Congoleña"
+            ],
+            "en": [
+                "Congolese"
+            ],
+            "fr": [
+                "Congolais",
+                "Congolaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "DOM",
+        "country_name_es": "República Dominicana",
+        "country_name_en": "Dominican Republic",
+        "demonym": {
+            "es": [
+                "Dominicano",
+                "Dominicana"
+            ],
+            "en": [
+                "Dominican"
+            ],
+            "fr": [
+                "Dominicain",
+                "Dominicaine"
+            ]
+        }
+    },
+    {
+        "alpha3": "ZAF",
+        "country_name_es": "República Sudafricana",
+        "country_name_en": "South Africa",
+        "demonym": {
+            "es": [
+                "Sudafricano",
+                "Sudafricana"
+            ],
+            "en": [
+                "South African"
+            ],
+            "fr": [
+                "Sudafricain",
+                "Sudafricaine",
+                "Sud-Africain",
+                "Sud-Africaine"
+            ]
+        }
+    },
+    {
+        "alpha3": "RWA",
+        "country_name_es": "Ruanda",
+        "country_name_en": "Rwanda",
+        "demonym": {
+            "es": [
+                "Ruandés",
+                "Ruandesa"
+            ],
+            "en": [
+                "Rwandan"
+            ],
+            "fr": [
+                "Rwandais",
+                "Rwandaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "ROU",
+        "country_name_es": "Rumanía",
+        "country_name_en": "Romania",
+        "demonym": {
+            "es": [
+                "Rumano",
+                "Rumana"
+            ],
+            "en": [
+                "Romanian"
+            ],
+            "fr": [
+                "Roumain",
+                "Roumaine"
+            ]
+        }
+    },
+    {
+        "alpha3": "RUS",
+        "country_name_es": "Rusia",
+        "country_name_en": "Russia",
+        "demonym": {
+            "es": [
+                "Ruso",
+                "Rusa"
+            ],
+            "en": [
+                "Russian"
+            ],
+            "fr": [
+                "Russe"
+            ]
+        }
+    },
+    {
+        "alpha3": "WSM",
+        "country_name_es": "Samoa",
+        "country_name_en": "Samoa",
+        "demonym": {
+            "es": [
+                "Samoano",
+                "Samoana"
+            ],
+            "en": [
+                "Samoan"
+            ],
+            "fr": [
+                "Samoan",
+                "Samoane"
+            ]
+        }
+    },
+    {
+        "alpha3": "KNA",
+        "country_name_es": "San Cristóbal y Nieves",
+        "country_name_en": "Saint Kitts and Nevis",
+        "demonym": {
+            "es": [
+                "Cristobaleño",
+                "Cristobaleña"
+            ],
+            "en": [
+                "Kittian",
+                "Nevisian"
+            ],
+            "fr": [
+                "Christophien",
+                "Christophienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "SMR",
+        "country_name_es": "San Marino",
+        "country_name_en": "San Marino",
+        "demonym": {
+            "es": [
+                "Sanmarinense"
+            ],
+            "en": [
+                "Sammarinese"
+            ],
+            "fr": [
+                "Saint-Marinais"
+            ]
+        }
+    },
+    {
+        "alpha3": "VCT",
+        "country_name_es": "San Vicente y las Granadinas",
+        "country_name_en": "Saint Vincent and the Grenadines",
+        "demonym": {
+            "es": [
+                "Sanvicentino",
+                "Sanvicentina"
+            ],
+            "en": [
+                "Saint Vincentian"
+            ],
+            "fr": [
+                "Vincentais",
+                "Vincentaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "LCA",
+        "country_name_es": "Santa Lucía",
+        "country_name_en": "Saint Lucia",
+        "demonym": {
+            "es": [
+                "Santalucense"
+            ],
+            "en": [
+                "Saint Lucian"
+            ],
+            "fr": [
+                "Lucien",
+                "Lucienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "STP",
+        "country_name_es": "Santo Tomé y Príncipe",
+        "country_name_en": "Sao Tome and Principe",
+        "demonym": {
+            "es": [
+                "Santotomense"
+            ],
+            "en": [
+                "Sao Tomean"
+            ],
+            "fr": [
+                "Santoméen",
+                "Santoméenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "SEN",
+        "country_name_es": "Senegal",
+        "country_name_en": "Senegal",
+        "demonym": {
+            "es": [
+                "Senegalés",
+                "Senegalesa"
+            ],
+            "en": [
+                "Senegalese"
+            ],
+            "fr": [
+                "Sénégalais",
+                "Sénégalaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "SRB",
+        "country_name_es": "Serbia",
+        "country_name_en": "Serbia",
+        "demonym": {
+            "es": [
+                "Serbio",
+                "Serbia"
+            ],
+            "en": [
+                "Serbian"
+            ],
+            "fr": [
+                "Serbe"
+            ]
+        }
+    },
+    {
+        "alpha3": "SYC",
+        "country_name_es": "Seychelles",
+        "country_name_en": "Seychelles",
+        "demonym": {
+            "es": [
+                "Seychellense"
+            ],
+            "en": [
+                "Seychellois"
+            ],
+            "fr": [
+                "Seychellois",
+                "Seychelloise"
+            ]
+        }
+    },
+    {
+        "alpha3": "SLE",
+        "country_name_es": "Sierra Leona",
+        "country_name_en": "Sierra Leone",
+        "demonym": {
+            "es": [
+                "Sierraleonés",
+                "Sierraleonesa"
+            ],
+            "en": [
+                "Sierra Leonean"
+            ],
+            "fr": [
+                "Sierraléonais",
+                "Sierraléonaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "SGP",
+        "country_name_es": "Singapur",
+        "country_name_en": "Singapore",
+        "demonym": {
+            "es": [
+                "Singapurense"
+            ],
+            "en": [
+                "Singaporean"
+            ],
+            "fr": [
+                "Singapourien",
+                "Singapourienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "SYR",
+        "country_name_es": "Siria",
+        "country_name_en": "Syria",
+        "demonym": {
+            "es": [
+                "Sirio",
+                "Siria"
+            ],
+            "en": [
+                "Syrian"
+            ],
+            "fr": [
+                "Syrien",
+                "Syrienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "SOM",
+        "country_name_es": "Somalia",
+        "country_name_en": "Somalia",
+        "demonym": {
+            "es": [
+                "Somalí",
+                "Somalía"
+            ],
+            "en": [
+                "Somali"
+            ],
+            "fr": [
+                "Somalien",
+                "Somalienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "LKA",
+        "country_name_es": "Sri Lanka",
+        "country_name_en": "Sri Lanka",
+        "demonym": {
+            "es": [
+                "Ceilanés",
+                "Ceilanesa",
+                "Ceilandés",
+                "Ceilandesa",
+                "Esrilanqués",
+                "Esrilanquesa"
+            ],
+            "en": [
+                "Sri Lankan"
+            ],
+            "fr": [
+                "Srilankais",
+                "Srilankaise",
+                "Sri-Lankais",
+                "Sri-Lankaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "SWZ",
+        "country_name_es": "Suazilandia",
+        "country_name_en": "Eswatini",
+        "demonym": {
+            "es": [
+                "Suazi"
+            ],
+            "en": [
+                "Swazi"
+            ],
+            "fr": [
+                "Swazi",
+                "Swazie"
+            ]
+        }
+    },
+    {
+        "alpha3": "SSD",
+        "country_name_es": "Sudán del Sur",
+        "country_name_en": "South Sudan",
+        "demonym": {
+            "es": [
+                "Sursudanés",
+                "Sursudanesa"
+            ],
+            "en": [
+                "South Sudanese"
+            ],
+            "fr": [
+                "Sud-Soudanais",
+                "Sud-Soudanaise",
+                "Sud-Soudanaises"
+            ]
+        }
+    },
+    {
+        "alpha3": "SDN",
+        "country_name_es": "Sudán",
+        "country_name_en": "Sudan",
+        "demonym": {
+            "es": [
+                "Sudanés",
+                "Sudanesa"
+            ],
+            "en": [
+                "Sudanese"
+            ],
+            "fr": [
+                "Soudanais",
+                "Soudanaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "SWE",
+        "country_name_es": "Suecia",
+        "country_name_en": "Sweden",
+        "demonym": {
+            "es": [
+                "Sueco",
+                "Sueca"
+            ],
+            "en": [
+                "Swedish"
+            ],
+            "fr": [
+                "Suédois",
+                "Suédoise"
+            ]
+        }
+    },
+    {
+        "alpha3": "CHE",
+        "country_name_es": "Suiza",
+        "country_name_en": "Switzerland",
+        "demonym": {
+            "es": [
+                "Suizo",
+                "Suiza"
+            ],
+            "en": [
+                "Swiss"
+            ],
+            "fr": [
+                "Suisse"
+            ]
+        }
+    },
+    {
+        "alpha3": "SUR",
+        "country_name_es": "Surinam",
+        "country_name_en": "Suriname",
+        "demonym": {
+            "es": [
+                "Surinamés",
+                "Surinamesa"
+            ],
+            "en": [
+                "Surinamer"
+            ],
+            "fr": [
+                "Surinamien",
+                "Surinamienne",
+                "Surinamais",
+                "Surinamaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "THA",
+        "country_name_es": "Tailandia",
+        "country_name_en": "Thailand",
+        "demonym": {
+            "es": [
+                "Tailandés",
+                "Tailandesa"
+            ],
+            "en": [
+                "Thai"
+            ],
+            "fr": [
+                "Thaïlandais",
+                "Thaïlandaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "TZA",
+        "country_name_es": "Tanzania",
+        "country_name_en": "Tanzania",
+        "demonym": {
+            "es": [
+                "Tanzano",
+                "Tanzana"
+            ],
+            "en": [
+                "Tanzanian"
+            ],
+            "fr": [
+                "Tanzanien",
+                "Tanzanienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "TJK",
+        "country_name_es": "Tayikistán",
+        "country_name_en": "Tajikistan",
+        "demonym": {
+            "es": [
+                "Tayiko",
+                "Tayika"
+            ],
+            "en": [
+                "Tadzhik"
+            ],
+            "fr": [
+                "Tadjik",
+                "Tadjike"
+            ]
+        }
+    },
+    {
+        "alpha3": "TLS",
+        "country_name_es": "Timor Oriental",
+        "country_name_en": "Timor-Leste",
+        "demonym": {
+            "es": [
+                "Timorense"
+            ],
+            "en": [
+                "East Timorese"
+            ],
+            "fr": [
+                "Est-timorais",
+                "Est-timoraise"
+            ]
+        }
+    },
+    {
+        "alpha3": "TGO",
+        "country_name_es": "Togo",
+        "country_name_en": "Togo",
+        "demonym": {
+            "es": [
+                "Togolés",
+                "Togolesa"
+            ],
+            "en": [
+                "Togolese"
+            ],
+            "fr": [
+                "Togolais",
+                "Togolaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "TON",
+        "country_name_es": "Tonga",
+        "country_name_en": "Tonga",
+        "demonym": {
+            "es": [
+                "Tongano",
+                "Tongana"
+            ],
+            "en": [
+                "Tongan"
+            ],
+            "fr": [
+                "Tongien",
+                "Tongienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "TTO",
+        "country_name_es": "Trinidad y Tobago",
+        "country_name_en": "Trinidad and Tobago",
+        "demonym": {
+            "es": [
+                "Trinitense"
+            ],
+            "en": [
+                "Trinidadian"
+            ],
+            "fr": [
+                "Trinidadien",
+                "Trinidadienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "TUN",
+        "country_name_es": "Túnez",
+        "country_name_en": "Tunisia",
+        "demonym": {
+            "es": [
+                "Tunecino",
+                "Tunecina"
+            ],
+            "en": [
+                "Tunisian"
+            ],
+            "fr": [
+                "Tunisien",
+                "Tunisienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "TKM",
+        "country_name_es": "Turkmenistán",
+        "country_name_en": "Turkmenistan",
+        "demonym": {
+            "es": [
+                "Turcomano",
+                "Turcomana",
+                "Turkmeno",
+                "Turkmena"
+            ],
+            "en": [
+                "Turkmen"
+            ],
+            "fr": [
+                "Turkmène"
+            ]
+        }
+    },
+    {
+        "alpha3": "TUR",
+        "country_name_es": "Turquía",
+        "country_name_en": "Türkiye",
+        "demonym": {
+            "es": [
+                "Turco",
+                "Turca"
+            ],
+            "en": [
+                "Turkish"
+            ],
+            "fr": [
+                "Turc",
+                "Turque"
+            ]
+        }
+    },
+    {
+        "alpha3": "TUV",
+        "country_name_es": "Tuvalu",
+        "country_name_en": "Tuvalu",
+        "demonym": {
+            "es": [
+                "Tuvaluano",
+                "Tuvaluana"
+            ],
+            "en": [
+                "Tuvaluan"
+            ],
+            "fr": [
+                "Tuvaluan",
+                "Tuvaluane"
+            ]
+        }
+    },
+    {
+        "alpha3": "UKR",
+        "country_name_es": "Ucrania",
+        "country_name_en": "Ukraine",
+        "demonym": {
+            "es": [
+                "Ucraniano",
+                "Ucraniana"
+            ],
+            "en": [
+                "Ukrainian"
+            ],
+            "fr": [
+                "Ukrainien",
+                "Ukrainienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "UGA",
+        "country_name_es": "Uganda",
+        "country_name_en": "Uganda",
+        "demonym": {
+            "es": [
+                "Ugandés",
+                "Ugandesa"
+            ],
+            "en": [
+                "Ugandan"
+            ],
+            "fr": [
+                "Ougandais",
+                "Ougandaise"
+            ]
+        }
+    },
+    {
+        "alpha3": "URY",
+        "country_name_es": "Uruguay",
+        "country_name_en": "Uruguay",
+        "demonym": {
+            "es": [
+                "Uruguayo",
+                "Uruguaya"
+            ],
+            "en": [
+                "Uruguayan"
+            ],
+            "fr": [
+                "Uruguayen",
+                "Uruguayenne"
+            ]
+        }
+    },
+    {
+        "alpha3": "UZB",
+        "country_name_es": "Uzbekistán",
+        "country_name_en": "Uzbekistan",
+        "demonym": {
+            "es": [
+                "Uzbeko",
+                "Uzbeka"
+            ],
+            "en": [
+                "Uzbekistani"
+            ],
+            "fr": [
+                "Ouzbek",
+                "Ouzbèke"
+            ]
+        }
+    },
+    {
+        "alpha3": "VUT",
+        "country_name_es": "Vanuatu",
+        "country_name_en": "Vanuatu",
+        "demonym": {
+            "es": [
+                "Vanuatuense"
+            ],
+            "en": [
+                "Ni-Vanuatu"
+            ],
+            "fr": [
+                "Vanuatais",
+                "Vanuataise"
+            ]
+        }
+    },
+    {
+        "alpha3": "VEN",
+        "country_name_es": "Venezuela",
+        "country_name_en": "Venezuela",
+        "demonym": {
+            "es": [
+                "Venezolano",
+                "Venezolana"
+            ],
+            "en": [
+                "Venezuelan"
+            ],
+            "fr": [
+                "Vénézuélien",
+                "Vénézuélienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "VNM",
+        "country_name_es": "Vietnam",
+        "country_name_en": "Vietnam",
+        "demonym": {
+            "es": [
+                "Vietnamita"
+            ],
+            "en": [
+                "Vietnamese"
+            ],
+            "fr": [
+                "Vietnamien",
+                "Vietnamienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "YEM",
+        "country_name_es": "Yemen",
+        "country_name_en": "Yemen",
+        "demonym": {
+            "es": [
+                "Yemení",
+                "Yemení",
+                "Yemenita",
+                "Yemenita"
+            ],
+            "en": [
+                "Yemeni"
+            ],
+            "fr": [
+                "Yéménite"
+            ]
+        }
+    },
+    {
+        "alpha3": "DJI",
+        "country_name_es": "Yibuti",
+        "country_name_en": "Djibouti",
+        "demonym": {
+            "es": [
+                "Yibutiano",
+                "Yibutiana"
+            ],
+            "en": [
+                "Djibouti"
+            ],
+            "fr": [
+                "Djiboutien",
+                "Djiboutienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "ZMB",
+        "country_name_es": "Zambia",
+        "country_name_en": "Zambia",
+        "demonym": {
+            "es": [
+                "Zambiano",
+                "Zambiana"
+            ],
+            "en": [
+                "Zambian"
+            ],
+            "fr": [
+                "Zambien",
+                "Zambienne"
+            ]
+        }
+    },
+    {
+        "alpha3": "ZWE",
+        "country_name_es": "Zimbabue",
+        "country_name_en": "Zimbabwe",
+        "demonym": {
+            "es": [
+                "Zimbabuense",
+                "Zimbabuense"
+            ],
+            "en": [
+                "Zimbabwean"
+            ],
+            "fr": [
+                "Zimbabwéen",
+                "Zimbabwéenne"
+            ]
+        }
+    }
+]
